@@ -20,21 +20,21 @@ global_variables() {
     global_software_version="2.10"
 
     # Blog title
-    global_title="My fancy blog"
+    global_title="wolfiy's blog"
     # The typical subtitle for each blog
-    global_description="A blog about turtles and carrots"
+    global_description="A blog about stuff"
     # The public base URL for this blog
-    global_url="http://example.com/blog"
+    global_url="https://blog.wolfiy.ch"
 
     # Your name
-    global_author="John Smith"
+    global_author="wolfiy"
     # You can use twitter or facebook or anything for global_author_url
-    global_author_url="http://twitter.com/example" 
+    global_author_url="https://linktree.wolfiy.ch" 
     # Your email
-    global_email="john@smith.com"
+    global_email=""
 
     # CC by-nc-nd is a good starting point, you can change this to "&copy;" for Copyright
-    global_license="CC by-nc-nd"
+    global_license="CC by-nc-sa"
 
     # If you have a Google Analytics ID (UA-XXXXX) and wish to use the standard
     # embedding code, put it on global_analytics
